@@ -1,7 +1,7 @@
 #!/bin/bash
 
 ##### Change these values ###
-ZONE_ID="AKIAWZOJMUQXXKFO3TNZ"
+ZONE_ID="Z0939122H2A7XRLGNMUQ"
 DOMAIN="rajeshdevops.tech"
 SG_NAME="allow-all"
 #############################
